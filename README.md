@@ -21,4 +21,25 @@
 
 * Simulation OSC:
 
-![Uploading image.png…]()
+![image](https://github.com/Thingjang/prj_icsd/assets/118869957/36536454-46f8-49fa-a196-a922b8505b0d)
+
+##### Ex3: Design an automatic circuit to count up from 00 to 99 and then count down from 99 to 00, displaying on two 7-segment LEDs, continuously looping, with a push button allowing counting/start and stop counting
+
+* Design block:
+
+![image](https://github.com/Thingjang/prj_icsd/assets/118869957/214c5fc0-7042-47f7-8f34-ec9ee75ddd26)
+
+* Simulation OSC:
+
+![image](https://github.com/Thingjang/prj_icsd/assets/118869957/421c6523-ae49-4335-92f4-06c647c8a6b9)
+
+##### Ex4: control 8 LEDs with 4 modes
+
+* Design block:
+
+![image](https://github.com/Thingjang/prj_icsd/assets/118869957/7d76b31f-97ef-4dbb-920b-4d09bd696d62)
+
+* Simulation OSC:
+
+![image](https://github.com/Thingjang/prj_icsd/assets/118869957/2829e79f-b8b4-4102-9027-1b78d85f9800)
+
